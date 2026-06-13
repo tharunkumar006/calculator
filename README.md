@@ -39,8 +39,9 @@ style.css
 If the entered expression is invalid, the calculator shows an error popup and resets the display.
 
 ## Screenshot
-<img width="355" height="549" alt="Screenshot 2026-06-13 181113" src="https://github.com/user-attachments/assets/e391c07b-2fd8-4d68-bf3e-ebdf67a4c143" />
 
+
+<img width="320" height="518" alt="Screenshot 2026-06-13 181458" src="https://github.com/user-attachments/assets/0e345ba7-2bfb-4b5f-9e1b-819c710e52a2" />
 
 
 
