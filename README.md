@@ -41,7 +41,6 @@ If the entered expression is invalid, the calculator shows an error popup and re
 ## Screenshot
 
 
-<img width="320" height="518" alt="Screenshot 2026-06-13 181458" src="https://github.com/user-attachments/assets/0e345ba7-2bfb-4b5f-9e1b-819c710e52a2" />
 
 
 
