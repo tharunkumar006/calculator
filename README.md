@@ -1,4 +1,5 @@
-<img width="191" height="270" alt="Screenshot 2026-06-13 173925" src="https://github.com/user-attachments/assets/97c7c983-d9e6-4b70-ab55-161bc089b633" /># Calculator Project
+<img width="320" height="518" alt="Screenshot 2026-06-13 181458" src="https://github.com/user-attachments/assets/75ea750f-83e5-4a4f-9e3d-4731d99ab2a4" />
+
 
 A simple and modern calculator built using HTML, CSS, and JavaScript.
 
@@ -39,6 +40,7 @@ style.css
 If the entered expression is invalid, the calculator shows an error popup and resets the display.
 
 ## Screenshot
+<img width="320" height="518" alt="Screenshot 2026-06-13 181458" src="https://github.com/user-attachments/assets/bc965fd7-3ceb-4e90-9037-f99fd0674529" />
 
 
 
