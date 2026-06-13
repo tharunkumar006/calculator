@@ -1,4 +1,4 @@
-# Calculator Project
+<img width="191" height="270" alt="Screenshot 2026-06-13 173925" src="https://github.com/user-attachments/assets/97c7c983-d9e6-4b70-ab55-161bc089b633" /># Calculator Project
 
 A simple and modern calculator built using HTML, CSS, and JavaScript.
 
@@ -39,7 +39,9 @@ style.css
 If the entered expression is invalid, the calculator shows an error popup and resets the display.
 
 ## Screenshot
-Add a screenshot of the calculator UI here.
+<img width="355" height="549" alt="Screenshot 2026-06-13 181113" src="https://github.com/user-attachments/assets/5e3fcd8e-024b-47ce-9aba-43505c687a69" />
+
+
 
 ## Author
 Tharun Kumar
