@@ -1,1 +1,45 @@
-# calculator
+# Calculator Project
+
+A simple and modern calculator built using HTML, CSS, and JavaScript.
+
+## Features
+- Clean neumorphic UI design
+- Basic arithmetic operations: addition, subtraction, multiplication, and division
+- Percentage calculation
+- Delete last input character
+- Clear all input
+- Shows result inside the display
+- Allows multiple symbols in sequence
+- Shows an error popup if the expression is invalid
+
+## Technologies Used
+- HTML
+- CSS
+- JavaScript
+
+## Project Structure
+```bash
+index.html
+style.css
+```
+
+## How to Run
+1. Download or clone the project files.
+2. Open `index.html` in any browser.
+3. Use the buttons to perform calculations.
+
+## Usage
+- Click number buttons to enter values.
+- Click operator buttons to build expressions.
+- Press `=` to calculate the result.
+- Press `C` to clear the display.
+- Press `DEL` to remove the last character.
+
+## Error Handling
+If the entered expression is invalid, the calculator shows an error popup and resets the display.
+
+## Screenshot
+Add a screenshot of the calculator UI here.
+
+## Author
+Tharun Kumar
